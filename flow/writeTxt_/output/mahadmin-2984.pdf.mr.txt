@@ -19,6 +19,47 @@
 ३. सार्वजनिक बांधकाम विभागाने तांत्रिक मान्यता दिलेल्या प्रस्तुत प्रस्तावाच्या छाननीअंती अंदाजपत्रकातील
 कामात समाविष्ट असलेल्या बाबींच्या किंमतीचे विवरण खालीलप्रमाणे आहे.
 Recapitulation Sheet
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No | Particulars of scope | Unit Rate Norms Rs/(Sqmt./M)/LS | Cost Rs. |
+| Units | Rate | Component wise | Total |
+| (A) | Essential Items (Components) |  |  |  |
+| 1 | (a) Building proper (Built up Area-Sq.m) 4 Units of basement + G+2 (Including Water supply and sanitary work) (Considering water supply 5% civil construction cost will be 30,10,08,059/-) | As per Detailed Estimate | 31,60,58,462 |  |
+|  | Total B.U.A. = | 9385.76 | Sub Total (a) | 31,60,58,462 |
+|  | (b) Rain / Roof Water Harvesting | As per Detailed Estimate | 6,62,509 |  |
+|  | (c) Ramp for Handicaps | L.S. | 0 |  |
+|  | (d) Furniture (As per estimate attached) | (Rate-13700/sq.m.for 70% area) | 9,01,91,185 |  |
+|  |  | Sub Total (b+c+d) |  | 9,08,53,694 |
+| 2 | Water supply and sanitary works | Included in civil cost | Sub Total (2) - |  |
+|  | Electrification Internal External Fire fighting and Fire Alarm etc | 5% of (a-Water supply charges) 6% of (a-Water supply charges) L.S. | 1,50,50,403 1,80,60,484 50,00,000 |  |
+|  |  |  | Sub Total (3) | 3,81,10,887 |
+|  |  | Sub Total (A) |  | 44,50,23,042 |
+| (B) | MISCELLANEOUS ITEMS |  |  |  |
+|  | (1) Compound Wall and Gate (Rmt) | As per Detailed Estimate | 76,55,188 |  |
+|  | (ii) Internal /Approach Roads (Rmt) | As per Detailed Estimate | 1,13,73,019 |  |
+|  | (iii) Land Scaping | As per Detailed Estimate | 4,67,952 |  |
+|  | (iv) Parking | As per Detailed Estimate | 19,12,905 |  |
+|  | (v) Soil Investigations and Detail Land Survey |  | L.S. | 2,00,000 |  |
+|  |  |  | Sub Total (B) | 2,24,05,671 |
+| Sub Total (A+B) | 46,74,28,713 |
+| (C) | Optional Items |  |  |  |
+| 1 | Water Main Storage | As per Detailed Estimate | 13,16,803 |  |
+| 3 | HVAC System | L.S. | 80,00,000 |  |
+| 4 | Lifts (4 Nos) | L.S. | 80,00,000 |  |
+| 6 | External Toilets | As per Detailed Estimate | 32,50,152 |  |
+| 7 | Split type AC system | L.S. | 10,00,000 |  |
+| 8 | LAN System | L.S. | 10,00,000 |  |
+| 9 | CCTV | L.S. | 25,00,000 |  |
+|  |  |  | Sub Total (C) | 2,50,66,955 |
+| Project Cost (P) = (A) + (B) + (C) | 49,24,95,668 |
+| (D) | Provisions |  |  |  |
+|  | (i) Contingencies 4% on (a) |  | 1,26,42,338 |  |
+|  | (ii) Price Escalation 5% on (P) |  | 2,46,24,783 |  |
+|  | (iii) Insurance 0.5% on (P) |  | 24,62,478 |  |
+|  | (iv) GST 12% on (P) |  | 5,90,99,480 |  |
+|  |  |  | Sub Total (D) | 9,88,29,080 |
+| TOTAL COST OF PROJECT (TPC) (A+B+C+D) | 59,13,24,749 |
+| Say Rs. Lakhs | 5913.00 |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ४ पैकी २
 # Page 3
 शासन निर्णय क्रमांक: ईव्हीएम-२०२०/प्र.क्र.१५३/२०/३३

@@ -44,6 +44,18 @@ Wavhal
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः संकिर्ण २०२०/प्र.क्र.८४/२८ अ
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| शासन निर्णय सामान्य प्रशासन विभाग क्र. संकीर्ण २०२०/प्र.क्र.८४/२८अ, दि. १७ फेब्रुवारी २०२१ चे विवरणपत्र - अ |
+| दिव्यांग व्यक्तींसाठी सुयोग्य पदाची निश्चिती |
+| अ.क्र. | पदनाम | शारीरीक पात्रता | दिव्यांग प्रवर्गासाठी पदे सुनिश्चिती | सदर पदांची जबाबदाऱ्या व कर्तव्ये |
+| १ | २ | ३ | ४ | ५ |
+| १ | संचालक | S,ST,W, BN,RW,SE,H, C, MF | A) B, LV B) D, HH C) OA, BA, OL, BL, OAL, LC, DW, AAV, MDY D) MI E) MD (Above include A to D) | कार्यालय विभाग प्रमुख तथा नियंत्रण अधिकारी |
+|  | उप संचालक | S, ST, W, MF, RW,SE, C | A) B, LV B) D, HH C) OA, BA, OL, BL, OAL, BLO, BLA, CP, LC, DW, AAV, MDY D) MI E) MD (Above include A to D) | कार्यालयीन उप विभाग प्रमुख तथा आहरण व संवितरण अधिकारी |
+| ३ | वरिष्ठ लघुलेखक | S, ST, W, L, MF, RW, SE, H, C | A) B, LV B) OA, OL, BL, OAL, CP, LC, DW, AAV, C) SLD, MI D) MD (Above include A to C) | वरिष्ठांच्या निर्देशाप्रमाणे श्रुतलेखनाचे पत्रव्यवहाराबाबत काम करणे |
+| ४ | प्रमुख लिपिक | S, ST, W, RW, H, C | A) B, LV B) D, HH C) OA, OL, BA, BL, OAL, CP, LC, DW, AAV D) ASD(M), SLD, MI E) MD (Above include A to D) | आस्थापना विषयक अनुषंगिक स्वरुपाचे सर्व कामकाज करणे |
+| ५ | वरिष्ठ लेखापाल | S, ST, W, BN, RW, SE, H, C, MF | A) B, LV B) D, HH C) OA, OL, OAL, BA, CP,  |  LC, DW, AAV D) ASD MOD), SLD, MI E) MD (Above include A to D) | लेखाविषयक अनुषंगिक स्वरुपाचे सर्व कामकाज करणे |
+| ६ | वरिष्ठ भांडारपाल | S, ST, W, RW,SE, H, C, | A) B, LV B) D, HH C) OA, OL, OAL, LC, DW, AAV D) ASD(M, MOD), SLD, MI E) MD (Above include A to D) | शासकीय विमान/ हेलिकॉप्टर यांच्या सुट्ट्याभागांची नोंद करणे या अनुषंगाने सर्व कामकाज सांभाळणे |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः संकिर्ण २०२०/प्र.क्र.८४/२८ अ
@@ -53,9 +65,38 @@ C) OÀ, OL, BA, BL, OAL, | लेखाविषयक सर्व कामक
 D) ASD (M), SLD, MI
 E) MD (Above include A to
 D)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| ८ | लिपिक टंकलेखक | S, ST, W, BN, RW, SE, H, C | A) B, LV B) D, HH C) OA, OL, BL, BA, CP, LC, OAL, DW, AAV, MDY D) ASD (M, MOD), ID, SLD, MI E) MD (Above include A to D) | लिपिक स्वरुपाचे सर्व कामकाज करणे |
+| ९ | नाईक | S, ST, W, BN, L, KC, MF, AC, H, C | A) B, LV B) D, HH C) OL, RAL, CP, LC, DW,  |  AAV, ASD(M), ID, SLD, MI D) ASD (M), ID, SLD, MI E) MD (Above include A to D) | कार्यालय उघडणे, कार्यालयात वरिष्ठांच्या निर्देशाप्रमाणे देखरेख ठेवणे |
+| १० | स्वच्छक | S, ST, W, BN, L, KC, PP, SE, C | A) B, LV B) D, HH C) OA, OL, OAL,CP, LC, DW, AAV, ASD(MOD), ID, SLD, MI D) ASD (M, MOD), ID, SLD, MI E) MD (Above include A to D) | कार्यालय, भांडार शाखेची साफसफाईचे कामकाज करणे |
+| ११ | शिपाई | S, ST, W, BN, L, KC, MF, AC, H, C | A) B, LV B) D, HH C) OL, RAL, CP, LC, DW, AAV, ASD(M), ID, SLD, MI D) ASD (M), ID, SLD, MI E) MD (Above include A to D) | टेबल, संगणक, प्रिंटर साफसफाई करणे तसेच इतर कार्यालयीन कागदपत्राची देवाण-घेवाण करणे |
+| १२ | सफाईगार | S, ST, W, BN, L, KC, PP, MF, SE, H | A) B, LV B) D, HH C) OL, CP, LC, DW, AAV, D) ASD (M, MOD), ID, SLD, MI E) MD (Above include A to  |  D) | हँगर, कार्यालय, भांडार शाखा झाडू मारणे, पोछा मारणे तसेच इतर साफसफाई कामकाज |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी ४
 # Page 5
 शासन निर्णय क्रमांकः संकिर्ण २०२०/प्र.क्र.८४/२८ अ
 Abbreviations :
+--------------------------------------------------------------
+| Sr. No. | Abbreviation | Long Form | Sr.No. | Abbreviation | Long Form |
+| 1 | B | Blind | 12 | CP | Cerebral Palsy |
+| 2 | LV | Low Vision | 13 | LC | Leprosy Cured |
+| 3 | D | Deaf | 14 | DW | Dwarfism |
+| 4 | HH | Hearing Handicapped | 15 | AAV | Acid Attack Victim |
+| 5 | OA | One Arm | 16 | ASD(M) | Autism Spectrum Disorder (M-Mild) |
+| 6 | OL | One Leg | 17 | ID | Intellectual Disability |
+| 7 | BA | Both Arms | 18 | MDY | Muscular Dystrophy |
+| 8 | BL | Both Legs | 19 | SLD | Special Learning Disability |
+| 9 | BLOA | Both Legs & One Arm | 20 | MI | Metal Illness |
+| 10 | BLA | Both Legs Arms | 21 | MD | Multiple Disailities |
+| 11 | OAL | One Arm and One Leg |  |  |  |
+--------------------------------------------------------------
 Abbreviations :
+---------------------------------------------------------------
+| Sr. No. | Abbreviation | Long Form | Sr. No. | Abbreviation | Long Form |
+| 1 | S | Sitting | 6 | PP | Pulling & Pushing |
+| 2 | ST | Standing | 7 | MF | Manipulation by fingers |
+| 3 | W | Walking | 8 | SE | Seeing |
+| 4 | BN | Bending | 9 | H | Hearing |
+| 5 | L | Lifting | 10 | C | Communication |
+---------------------------------------------------------------
 पृष्ठ ५ पैकी ५

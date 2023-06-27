@@ -53,9 +53,112 @@
 # Page 3
 शासन निर्णय क्रमांक: यशदा -२०२२/प्र.क्र.२९/२२/१२-अ
 Name of the Department General Administration Department
+-----------------------------------------------------------------------------------------------------
+| Name of Work : Construction of Center for Good Governance, Yashada, Pune (Residential Buildings) |
+| RECAPITULATION SHEET |
+| Sr. No. | Particulars of Scope | Unit Rate Norms Rs/(Sqmt./M) / LS | Cost Rs. |
+| Units | Rate | Component Wise | Total |
+| (A) | ESSENTIAL ITEMS (Components) |
+| 1 N 3 W | (a) Building proper (Built Up Area - Sq.m) G + 6 Floors |  |  |  |  |
+| 8,230.00 | Detailed Estimate | 227,739,316 |
+| Sub Total (a) 8,230.00 |  |  |  |  |
+| 227,739,316 |
+| Fuel Gas and oxygen Pipeline Furniture |  | L.S. | 1,000,000 | 28,805,000 |
+| 5,761.00 | 5,000 | 28,805,000 |
+| Sub Total (1) |  |
+| Water Supply & Sanitary Works |  | 5% of (a) |  |  |  |  |
+| 11,386,966 |
+| Electrification Internal External Fire Fighting Arrangements etc. |  | 5% of (a) | 11,386,966 |  |
+|  | 6% of (a) | 13,664,359 |
+|  | L.S. | 3,500,000 |
+|  |  | Sub Total (3) |  | 28,551,325 |  |
+|  |  | Sub Total )A) |  | 296,482,607 |
+|  |  |  |
+| (B) | MISCELLANEOUS ITEMS |  | 3,000,000 |  |
+|  | Internal Roads (Rmt) Development of Ground Parking Soil Investigations & Detail Land Survey |  | L.S. |  |
+|  | L.S. | 200,000 |
+|  | L.S. | 1,000,000 |
+|  | L.S. | 100,000 |
+|  | Sub Total (B) |  |  |  |
+| 4,300,000 |
+|  | Sub Total |  | (A+B) |  | 300,782,607 |
+| (C) | OPTIONAL ITEMS |
+|  | Water Main Storage |  | L.S. | 1,500,000 |  |
+|  | Air Conditioning (HVAC) |  | L.S. | 20,000,000 |
+|  | Lifts (2 Nos.) |  | L.S. | 4,000,000 |
+|  | CCTV |  | L.S. | 1,000,000 |
+|  | LAN WAN |  | L.S. | 1,000,000 |
+|  |  |  |  | Sub Total (C) | 27,500,000 |
+|  | Project Cost (P)= (A) + (B) + (C) |  |
+|  | 328,282,607 |  |
+| (D) | PROVISIONS |  |  |
+|  | (i) Contingencies 4% on (a) | 9,109,573 |  |
+|  | (ii) Labour Insurance 0.5% on (P) | 1,641,413 |  |
+|  | (iii) GST 18% on (P) | 59,090,869 |  |
+|  | (iv) Price escalation 5% on (P) | 16,414,130 |  |
+|  | (v) Consultancy Charges 1.5% on (P) | 4,924,239 |  |
+|  | Sub Total (D) |  |  |  | 91,180,224 |
+|  | TOTAL COST OF PROJECT (TPC) (A+B+C+D) |  | 419,462,831 |  |
+|  | ay Rs. Lakhs | 4194.63 |
+| PLINTH AREA RATES FOR |  |  |
+| (i) Bldg Proper Cost | '= Rs | 27,671.85 | /Sqm |
+| (ii) Elect. Work | Rs | 3469 | /Sqm |
+| (iii) Water Supply | Rs | 1,384 | /Sqm |
+| (iv) For (i) + (ii) + (iii) | = Rs | 32525 | /Sqm |
+-----------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी ३
 # Page 4
 शासन निर्णय क्रमांक: यशदा -२०२२/प्र.क्र.२९/२२/१२-अ
+-----------------------------------------------------------------------------------------------
+| Name of the Department : General Administration Department |
+| Name of Work : Construction of Center for Good Governance, Yashada, Pune (Academic Buildings) |
+| RECAPITULATION SHEET |
+| Sr. No. | Particulars of Scope | Unit Rate Norms Rs/(Sqmt./M) / LS | Cost Rs. |  |
+|  | Units | Rate | Component Wise | Total |
+| (A) | ESSENTIAL ITEMS (Components) |  |  |  |
+| 1 | (a) Building proper (Built Up Area - Sq.m) G + 6 Floors |  |  |  |  |
+| 6,358.00 | Detailed Estimate | 202,101,815 |  |
+|  | Sub Total (a) |  | 6,358.00 |  |  | 202,101,815 |
+|  |
+|  | Furniture |  | 4,450.60 | 5,000 | 22,253,000 |  |
+|  |  |  | Sub Total (1) |  |  | 22,253,000 |
+| 2 | Water Supply & Sanitary Works |  | 5% of (a) |  | 10,105,091 |
+| 3 | Electrification Internal External Fire Fighting Arrangements etc. |  | 5% of (a) | 10,105,091 |  |
+|  |  | 6% of (a) | 12,126,109 |  |
+|  |  | L.S. | 2,500,000 |  |
+|  |  |  | Sub Total (3) | 24,731,200 |
+|  |
+|  |  |  | Sub Total (A) |  | 259,191,105 |
+| (B) | MISCELLANEOUS ITEMS |  |  |  |
+|  | Retaining Wall and Entrance gate |  | L.S. | 1,000,000 |  |
+|  |  |  | Sub Total (B) | 1,000,000 |
+|  | Sub Total |  |  |  | (A+B) | 260,191,105 |
+| (C) | OPTIONAL ITEMS |  |  |  |  |
+|  | Water Main Storage |  |  | L.S. | 1,500,000 |  |
+|  | Air Conditioning (HVAC) |  | L.S. | 40,000,000 |  |
+|  | Lifts (2 Nos.) |  | L.S. | 4,000,000 |  |
+|  | CCTV |  | L.S. | 500,000 |  |
+|  | LAN WAN |  | L.S. | 1,000,000 |  |
+|  |  |  |  | Sub Total (C) | 47,000,000 |
+|  | Project Cost (P)= (A) + (B) + (C) | 307,191,105 |
+|  |
+| (D) | PROVISIONS |  |  |  |  |  |
+|  | (i) Contingencies 4% on (a) | 8,084,073 |  |
+|  | (ii) Labour Insurance 0.5% on (P) | 1,535,956 |  |
+|  | (iii) GST 18% on (P) | 55,294,399 |  |
+|  | (iv) Price escalation 5% on (P) | 15,359,555 |  |
+|  | (v) Consultancy Charges 1.5% on (P) | 4,607,867 |  |
+|  |  |  |  | Sub Total (D) |  | 84,881,849 |
+|  |
+|  |  | TOTAL COST OF PROJECT (TPC) | (A+B+C+D) | 392,072,954 |
+|  |  |  |  | Say Rs. Lakhs | 3920.73 |  |
+|  | PLINTH AREA RATES FOR |  |  |  |  |  |
+|  | (i) Bldg Proper Cost | Rs | 31,787.01 | /Sqm |  |  |
+|  | (ii) Elect. Work | Rs | 3890 | /Sqm |  |  |
+|  | (iii) Water Supply | Rs | 1,589 | /Sqm |  |  |
+|  | (iv) For (i) + (ii) + (iii) | Rs | 37266 | /Sqm |  |  |
+|  | (v) Total Project Cost = TPC ÷ Area (as per "a") | 61666 |  |  |  |
+-----------------------------------------------------------------------------------------------
 २. यशदा पुणे या संस्थेस, मागणी क्र. ओ-४२०७०-इतर प्रशासकीय सेवा ०० - ००३ - प्रशिक्षण ०० - ०३ यशवंतराव
 चव्हाण विकास प्रशासन प्रबोधिनीस सहाय्यक अनुदान, ३१ सहाय्यक अनुदान (२०७० ००७६) या कार्यक्रमांतर्गत
 योजनेकरिता सन २०२३-२४ या आर्थिक वर्षाकरिता सेंटर फॉर गुड गव्हर्नन्सकरिता रु.१०.०० कोटी (रुपये दहा

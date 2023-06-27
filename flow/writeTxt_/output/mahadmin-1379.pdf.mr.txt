@@ -13,11 +13,78 @@
 मान्यतेस्तव शासनास प्राप्त झाला आहे.
 २. सदर प्रस्तावाच्या छाननीअंती अंदाजपत्रकातील कामात समाविष्ट असलेल्या बाबींच्या किंमतीचे
 विवरण खालीलप्रमाणे आहे.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. (A)  |  | Description | Amount Rs. |
+| (a) Building proper (Built Up Area - Sq.m) Basement Stilt Floor Ground Floor First Floor Second Floor Third Floor Foundation in B.C. / Weak Soil |  | 0.00 0.00 23353480.00 10871341.00 11414767.00 11958545.00 3062066.00 |
+| Sub Total (I) |  |  |  |
+|  | 60660199.00 |  |
+| (b) Fuel Gas Pipeline |  |  | 0.00 |
+| (c) Bio Digester |  |  | 200000.00 |
+|  |  | Sub Total (1) = a+b+c | 60860199.00 |
+| 2. Water supply and Sanitary Works | 8% 1 (a) |  | 4852816.00 |
+| 3. (a) Electrification | Internal | 5% 1 (a) | 3033010.00 |
+|  | Externa 1 | 6% 1 (a) | 3639612.00 |
+|  | Sub Total (3) : (a) | 6672622.00 |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Page 2
 शासन निर्णय क्रमांक: ईव्हीएम-२०१७/प्र.क्र.७९४/१७/३३
+------------------------------------------------------------------
+| (b) Other Electric Items |  |  |
+| (1) Generator 62.5 KVA capacity or other specify |  | 850000.00 |
+| (II) Fire fighting Arrangement etc. |  | 1250000.00 |
+| (iii) Supply charges of MSEDCL (MSEB) |  | 700000.00 |
+| (iv) External area lighting |  | 750000.00 |
+| (v) Solar energy system/ Renewal energy system 20 KW |  | 1080000.00 |
+| (VI) Lift |  | 4012000.00 |
+| (vii) Air-conditioning / Central cooling |  | 0.00 |
+| (viii) Transformer / Electric sub station etc. |  | 0.00 |
+| (ix) CCTV |  | 650000.00 |
+| (x) any other electrical item (pls specify) |  | 0.00 |
+|  |  |  | Sub Total (3) = |  | 9292000.00 |
+| (b) |
+|  |  |  |  | Total Electrical |  | 15964622.00 |
+| sub total = (3a) |
+| +(3b) |
+|  |  |  |  | Sub Total (A) = |  | 81677637.00 |
+| 1+2+3 |
+| (B) | MISCELLANEOUS ITEMS |  |  |  |
+|  |  |  |
+|  | (i) Compound wall with M.S. gate |  |  | 3120000.00 |
+| (ii) Internal road (C.C.) pathway with paver block |  |  | 2160000.00 |
+| (iii) Approach Road |  |  | 0.00 |
+| (iv) C.C. drain |  |  |  | 700000.00 |  |
+| (v) Furniture/ Steel Racks for EVM (Rs.4000/sqm) |  |  |  |  | 6646520.00 |
+|  | (vi) Land development |  |  | 200000.00 |
+| (vii) Dismantling |  |  | 0.00 |
+| (viii) Soil Investigation |  |  | 100000.00 |
+| (ix) Underground Rain Water Harvesting |  |  | 500000.00 |
+| (x) Plinth Protection |  |  | 1000000.00 |
+| (xi) Garage |  |  | 1000000.00 |
+| (xii) Landscaping / Gardening |  | 0.00 |
+|  |  | Sub Total (B) | 15426520.00 |
+------------------------------------------------------------------
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांक: ईव्हीएम-२०१७/प्र.क्र.७९४/१७/३३
+-------------------------------------------------------------------------------------------
+| (C)  |  | OPTIONAL ITEMS |
+|  | Water main storage, Pump House, Bore well |  | 200000.00 |
+| 2 | External Toilet |  |  | 500000.00 |
+| 3 | Sewerage Treatment Plant |  |  | 0.00 |
+| 4 | Other Items |  |  | 0.00 |
+|  |  |  | Sub Total (C) | 700000.00 |
+|  |  | Project Cost (P) = A+B+C  |  | 97804157.00 |
+| (D)  |  | OTHERS PROVISIONS |  |  |  |
+|  | (i) Contingencies | Add 4% Contingencieso n (P) | 3912166.00 |
+|  | (ii) Green Building Concept | Add 10% Contingencies on (P) | 9780416.00 |
+|  | (iii) Price Escalation | Add 10% Contingencies on (P) | 9780416.00 |
+|  | (iv) GST | Add 12% Contingencies on (P) | 11736499.00 |
+|  | (v) Architectural Services (3 to 5 pls % specify) | Add 3% Contingencies on (P) | 2934125.00 |
+|  | (vi) Centage Charges | Add 3 to 5% Contingencies on (P) | 4550751.00 |
+|  |  |  |  | Sub Total (D) |  | 42694373.00 |
+| Total Cost of Project (TPC) (P)+ (D) |  | 140498530.00 |  |
+|  | Say Rs. lakhs | 1404.99 |
+-------------------------------------------------------------------------------------------
 ३. वरील विवरणात नमूद केल्यानुसार विषयांकित कामाच्या रु.१४०४.९९ लक्ष (रुपये चौदा कोटी चार
 लक्ष नव्व्यान्नव हजार फक्त) इतक्या रकमेच्या अंदाजपत्रकास शासन या आदेशाद्वारे खालील अटींच्या
 अधीन राहून प्रशासकीय मान्यता देत आहे.

@@ -16,6 +16,48 @@
 ३. सार्वजनिक बांधकाम विभागाने प्रस्तुत प्रस्तावाच्या छाननीअंती तांत्रिक मान्यता दिलेल्या
 अंदाजपत्रकातील कामात समाविष्ट असलेल्या बाबींच्या किंमतीचे विवरण खालीलप्रमाणे आहे.
 Recapitulation Sheet
+-----------------------------------------------------------------------------------------------------------------------------------
+| Sr.No | Particulars of scope | Unit Rate Norms Rs/(Sqmt./M)/LS | Cost Rs. |
+| Units | Rate | Component wise | Total |
+| (A) | Essential Items (Components) |  |  |  |
+| 1 | (a) Building proper (Built up Area-Sq.m) Ground + 12 floor | 10287.17 | 28,000 | 28,80,40,760 |  |
+|  | Total B.U.A. = | 10,287.17 | Sub Total (a) | 28,80,40,760 |
+|  | (b) Rain / Roof Water Harvesting |  | L.S. | 10,00,000 |  |
+|  | (c) Furniture (10287.17 x 70% = = 7201.02) | 7201.02 | 5000 | 3,60,05,100 |  |
+|  |  | Sub Total (b+c) |  | 3,70,05,100 |
+| N 2 / | Water supply and sanitary works | 5% on (a) | Sub Total (2) | 1,44,02,038 |
+| w | Electrification Internal External Fire fighting and Fire Alarm etc |  | 5% of (a) 6% of (a) L.S. | 1,44,02,038 1,72,82,446 80,00,000 |  |
+|  |  |  | Sub Total (3) | 3,96,84,484 |
+|  |  | Sub Total (A) |  | 37,91,32,382 |
+| (B) | MISCELLANEOUS ITEMS |  |  |  |
+|  | Compound Wall and Gate (Rmt) | 300.00 | 8000 | 24,00,000 |  |
+|  | Land Devlopment |  | L.S. | 15,00,000 |  |
+|  | STP |  | L.S. | 30,00,000 |  |
+|  | Flag Post |  | L.S. | 2,00,000 |  |
+|  | Soil Investigations |  | L.S. | 2,00,000 |  |
+|  |  |  | Sub Total (B) | 73,00,000 |
+| Sub Total (A+B) | 38,64,32,382 |
+| (C) | Optional Items |  |  |  |
+|  | Water Main Storage |  | L.S. | 20,00,000 |  |
+|  | Lifts (3 Nos) |  | L.S. | 2,00,00,000 |  |
+|  | Air Conditioning |  | L.S. | 10,00,000 |  |
+|  |  |  | Sub Total (C) | 2,30,00,000 |
+| Project Cost (P) = (A) + (B) + (C) | 40,94,32,382 |
+| (D) | Provisions |  |  |  |
+|  | (i) Contingencies 4% on (a) |  | 1,15,21,630 |  |
+|  | (ii) Price Escalation 5% on (P) |  | 2,04,71,619 |  |
+|  | (iii) Insurance 0.5% on (P) |  | 20,47,162 |  |
+|  | (iv) GST 12% on (P) |  | 4,91,31,886 |  |
+|  | (v) PMC charges 1.5% on (P) |  | 61,41,486 |  |
+|  | (vi) BMC Water charges |  | 50,00,000 |  |
+|  | (vii) BMC Sewerage charges |  | 1,00,00,000 |  |
+|  | (viii) IOD charges |  | 25,00,000 |  |
+|  | (ix) BEST charges |  | 5,00,000 |  |
+|  |  |  | Sub Total (D) | 10,73,13,783 |
+| TOTAL COST OF PROJECT (TPC) (A+B+C+D) | 51,67,46,165 |
+| Say Rs. Lakhs | 5167.00 |
+| पृष्ठ |
+-----------------------------------------------------------------------------------------------------------------------------------
 # Page 3
 शासन निर्णय क्रमांक: ईव्हीएम-२०२२/प्र.क्र.१६४/२२/३३
 ४. प्रस्तुत प्रकरणी मुंबई शहर जिल्हयातील ईव्हीएम व्हीव्हीपॅट साठवणूकीसाठी नव्याने गोदाम बांधकामासाठी रु.५१,६७,००,०००/- इतक्या रकमेस मुख्य सचिवांच्या अध्यक्षतेखालील उच्चाधिकार समितीच्या दि.०५.०८.२०२२ रोजीच्या बैठकीमध्ये मान्यता प्रदान करण्यात आलेली आहे.
