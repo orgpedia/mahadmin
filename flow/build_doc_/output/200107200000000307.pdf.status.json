@@ -1,0 +1,36 @@
+{
+  "name": "200107200000000307.pdf",
+  "file_id": "f_b723186706dd446e",
+  "source": {
+    "path": "input/pdfs/2001-07/200107200000000307.pdf",
+    "sha256": "b723186706dd446e07124c2b0e3c51c895d0e457f21252f633bba303c7c84090"
+  },
+  "state": {
+    "last_revision": 1,
+    "edits_file": "200107200000000307.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {
+      "text": {
+        "status": "failed",
+        "reason": "ValidationError: 1 validation error for Page\nheight\n  Input should be greater than 0 [type=greater_than, input_value=-3300, input_type=int]\n    For further information visit https://errors.pydantic.dev/2.14/v/greater_than",
+        "at": "2026-11-23T15:47:02.455049+00:00"
+      }
+    }
+  },
+  "status": "failed",
+  "problem": {
+    "step": "text",
+    "reason": "ValidationError: 1 validation error for Page\nheight\n  Input should be greater than 0 [type=greater_than, input_value=-3300, input_type=int]\n    For further information visit https://errors.pydantic.dev/2.14/v/greater_than"
+  },
+  "issues": {
+    "total": 0,
+    "by_code": {}
+  },
+  "versions": {},
+  "output": {
+    "path": "../../export/build_doc_/200107200000000307.pdf.govdoc.json.zst",
+    "sha256": "0b9b08ddf13127f2ee6a808b69f5b5413a7527a3ca6b0dd5158bd80e3f1ab8e9",
+    "size": 359,
+    "revision": 1
+  }
+}

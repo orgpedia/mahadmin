@@ -1,0 +1,10 @@
+{
+  "name": "20060531161744001.pdf",
+  "file_id": null,
+  "source": {
+    "path": "input/pdfs/2006-05/20060531161744001.pdf",
+    "sha256": "b1cf2ce4efeb8044169415680fa28d550183e29e12227d5895423c5eb0e40e98"
+  },
+  "status": "skipped",
+  "reason": "46 pages, over max_pages 20"
+}

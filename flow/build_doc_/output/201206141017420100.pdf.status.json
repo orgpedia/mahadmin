@@ -1,0 +1,10 @@
+{
+  "name": "201206141017420100.pdf",
+  "file_id": null,
+  "source": {
+    "path": "input/pdfs/2012-06/201206141017420100.pdf",
+    "sha256": "ae15be582053d80eef81c0fad0ee294b351bcdcdf4d444985319e53c80122a1b"
+  },
+  "status": "skipped",
+  "reason": "38 pages, over max_pages 20"
+}

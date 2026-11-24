@@ -1,0 +1,10 @@
+{
+  "name": "20091202122328001.pdf",
+  "file_id": null,
+  "source": {
+    "path": "input/pdfs/2009-12/20091202122328001.pdf",
+    "sha256": "a87dd1a0797365f0d66dec04151c2d480836a7e324c7101753f82ef3d1885a23"
+  },
+  "status": "skipped",
+  "reason": "40 pages, over max_pages 20"
+}

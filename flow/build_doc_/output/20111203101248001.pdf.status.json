@@ -1,0 +1,10 @@
+{
+  "name": "20111203101248001.pdf",
+  "file_id": null,
+  "source": {
+    "path": "input/pdfs/2011-12/20111203101248001.pdf",
+    "sha256": "1670843e197e3ac475928779e565bccc2ff31ae5786554b62a8f25ffc259193b"
+  },
+  "status": "skipped",
+  "reason": "79 pages, over max_pages 20"
+}

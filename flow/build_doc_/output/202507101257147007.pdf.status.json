@@ -1,0 +1,10 @@
+{
+  "name": "202507101257147007.pdf",
+  "file_id": null,
+  "source": {
+    "path": "input/pdfs/2025-07/202507101257147007.pdf",
+    "sha256": "2c5c41d4b8b5b2a9a03f4a8e45bf9e7b15973cca7c29958e3bae9422e7d8e9b9"
+  },
+  "status": "skipped",
+  "reason": "27 pages, over max_pages 20"
+}

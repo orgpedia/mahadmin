@@ -1,0 +1,36 @@
+{
+  "name": "20101230150825001.pdf",
+  "file_id": "f_3f6368269b68a2ac",
+  "source": {
+    "path": "input/pdfs/2010-12/20101230150825001.pdf",
+    "sha256": "3f6368269b68a2ace060be7bc0e36ec3f8539a33d7e6f89e50a7f91dfa0c5051"
+  },
+  "state": {
+    "last_revision": 1,
+    "edits_file": "20101230150825001.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {
+      "text": {
+        "status": "failed",
+        "reason": "Deferred: indic: deferred to a batch (logs/deferred.jsonl)",
+        "at": "2026-11-23T14:11:30.271794+00:00"
+      }
+    }
+  },
+  "status": "failed",
+  "problem": {
+    "step": "text",
+    "reason": "Deferred: indic: deferred to a batch (logs/deferred.jsonl)"
+  },
+  "issues": {
+    "total": 0,
+    "by_code": {}
+  },
+  "versions": {},
+  "output": {
+    "path": "../../export/build_doc_/20101230150825001.pdf.govdoc.json.zst",
+    "sha256": "f6d8d93704d89a006d1a090969a0dbc11bcf7c45c92d2d864962069b92c11262",
+    "size": 396,
+    "revision": 1
+  }
+}

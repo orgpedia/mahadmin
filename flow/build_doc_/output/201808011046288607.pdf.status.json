@@ -1,0 +1,10 @@
+{
+  "name": "201808011046288607.pdf",
+  "file_id": null,
+  "source": {
+    "path": "input/pdfs/2006-12/201808011046288607.pdf",
+    "sha256": "f73fcfe33feff8d09c082faa24258f37d3793050cdb9747a0116a4f127ed53f9"
+  },
+  "status": "skipped",
+  "reason": "27 pages, over max_pages 20"
+}

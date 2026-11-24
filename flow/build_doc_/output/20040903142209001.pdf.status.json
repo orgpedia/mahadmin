@@ -1,0 +1,10 @@
+{
+  "name": "20040903142209001.pdf",
+  "file_id": null,
+  "source": {
+    "path": "input/pdfs/2004-08/20040903142209001.pdf",
+    "sha256": "8355187cdf592263d812bb14f8154768a7f36f1472b4b168fc1d901f725e83e0"
+  },
+  "status": "skipped",
+  "reason": "34 pages, over max_pages 20"
+}

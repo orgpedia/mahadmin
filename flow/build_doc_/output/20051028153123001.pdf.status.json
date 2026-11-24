@@ -1,0 +1,10 @@
+{
+  "name": "20051028153123001.pdf",
+  "file_id": null,
+  "source": {
+    "path": "input/pdfs/1988-07/20051028153123001.pdf",
+    "sha256": "92317ff079d53c5b978aba55019bd1de7d4e0f63576588376ca7d21c27f207ee"
+  },
+  "status": "skipped",
+  "reason": "22 pages, over max_pages 20"
+}
