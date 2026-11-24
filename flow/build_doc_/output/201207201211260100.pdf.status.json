@@ -8,7 +8,9 @@
   "state": {
     "last_revision": 14,
     "edits_file": "201207201211260100.pdf.edits.yml",
-    "steps": {}
+    "steps": {},
+    "edits_hash": "",
+    "in_progress": "2026-11-24T10:49:04.201024+00:00"
   },
   "status": "done",
   "issues": {

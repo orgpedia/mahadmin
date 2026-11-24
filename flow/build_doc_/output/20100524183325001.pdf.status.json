@@ -6,16 +6,10 @@
     "sha256": "3a0660f75141ec121ae85f7e35e4ee80cf59066f7cf05de27ded33e42cd9c7f7"
   },
   "state": {
-    "last_revision": 1,
+    "last_revision": 2,
     "edits_file": "20100524183325001.pdf.edits.yml",
     "edits_hash": "",
-    "steps": {
-      "text": {
-        "status": "failed",
-        "reason": "Deferred: indic: deferred to a batch (logs/deferred.jsonl)",
-        "at": "2026-11-23T14:07:21.576902+00:00"
-      }
-    }
+    "steps": {}
   },
   "status": "failed",
   "problem": {
