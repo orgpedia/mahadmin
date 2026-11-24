@@ -6,25 +6,123 @@
     "sha256": "49fb3317aa92c947440ddb9ea9eb8fac0ea05e21423af809539f1fbe2de74b4e"
   },
   "state": {
-    "last_revision": 2,
+    "last_revision": 13,
     "edits_file": "201305081152251207.pdf.edits.yml",
     "edits_hash": "",
     "steps": {}
   },
-  "status": "failed",
-  "problem": {
-    "step": "text",
-    "reason": "Deferred: indic: deferred to a batch (logs/deferred.jsonl)"
-  },
+  "status": "done",
   "issues": {
-    "total": 0,
-    "by_code": {}
+    "total": 215,
+    "by_code": {
+      "core:block_unfinished": {
+        "severity": "info",
+        "count": 6,
+        "step": "block_check"
+      },
+      "core:cell_spill": {
+        "severity": "warning",
+        "count": 177,
+        "step": "table_check"
+      },
+      "core:date_order": {
+        "severity": "warning",
+        "count": 1,
+        "step": "role_check"
+      },
+      "core:lines_run_together": {
+        "severity": "info",
+        "count": 1,
+        "step": "block_check"
+      },
+      "core:table_column_empty": {
+        "severity": "info",
+        "count": 4,
+        "step": "table_check"
+      },
+      "core:table_review": {
+        "severity": "info",
+        "count": 11,
+        "step": "block_check"
+      },
+      "core:text_broken_reph": {
+        "severity": "warning",
+        "count": 2,
+        "step": "text"
+      },
+      "core:text_by_ocr": {
+        "severity": "info",
+        "count": 13,
+        "step": "text"
+      }
+    }
   },
-  "versions": {},
+  "versions": {
+    "text": {
+      "task": "pdf_text",
+      "version": "2",
+      "config_hash": null
+    },
+    "text_check": {
+      "task": "deva_check",
+      "version": "2",
+      "config_hash": "9a1b77773d6e120b"
+    },
+    "lines": {
+      "task": "ruled_lines",
+      "version": "1",
+      "config_hash": "4f706b173995149c"
+    },
+    "layout": {
+      "task": "pdftable_finder",
+      "version": "4",
+      "config_hash": "73a5da94cb815e43"
+    },
+    "tables": {
+      "task": "pdftable_cells",
+      "version": "4",
+      "config_hash": "351dc1f0d6ff199b"
+    },
+    "table_check": {
+      "task": "ruled_table_check",
+      "version": "1",
+      "config_hash": "49d9164e34fe06f1"
+    },
+    "split": {
+      "task": "section_splitter",
+      "version": "1",
+      "config_hash": "74c13122b03cd09f"
+    },
+    "roles": {
+      "task": "pattern_tagger",
+      "version": "1",
+      "config_hash": "7df60944d936a871"
+    },
+    "lists": {
+      "task": "list_finder",
+      "version": "2",
+      "config_hash": "ca8c008a37ab79e8"
+    },
+    "role_check": {
+      "task": "pattern_check",
+      "version": "1",
+      "config_hash": "13dc2becc37c4f9c"
+    },
+    "block_check": {
+      "task": "block_check",
+      "version": "1",
+      "config_hash": "d7547d9eb4bde633"
+    },
+    "values": {
+      "task": "value_tagger",
+      "version": "1",
+      "config_hash": "a4cacb04eb078be5"
+    }
+  },
   "output": {
     "path": "../../export/build_doc_/201305081152251207.pdf.govdoc.json.zst",
-    "sha256": "35f065e8bafa28b333410a74095d8e50614e954326988fc96af03d1c98aa8993",
-    "size": 398,
-    "revision": 1
+    "sha256": "b2902a0db8703945d9fe59738adef11993a09f27bee6617c5c94850929820a19",
+    "size": 150215,
+    "revision": 13
   }
 }
